@@ -1,3 +1,5 @@
+import type { SkipOption } from "@/api/skipService";
+
 export const getSkipColor = (size: number) => {
   const colors: Record<number, string> = {
     4: "#FEB2B2",
