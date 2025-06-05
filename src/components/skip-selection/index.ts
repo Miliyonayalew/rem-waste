@@ -1,4 +1,4 @@
-export { ProgressTracker } from "../common/ProgressTracker";
+export { ProgressTracker } from "./ProgressTracker";
 export { SkipCard } from "./SkipCard";
 export { SkipSelectionGrid } from "./SkipSelectionGrid";
 export { SkipSelectionTabs } from "./SkipSelectionTabs";
